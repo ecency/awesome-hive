@@ -130,7 +130,8 @@ Where to find more resources about Hive.
 Your contribution is always welcome. Feel free to open pull requests for any missing awesome ideas.
 
 # Open License
-(CC BY 4.0)[http://creativecommons.org/licenses/by/4.0/]
+
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 - - -
 

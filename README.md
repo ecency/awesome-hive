@@ -22,13 +22,14 @@ A curated list of awesome Hive frameworks, libraries, applications and resources
 *Documents & videos about Hive*
 
 - [Developer Portal](https://developers.hive.io/) - The developer portal of Hive.
+- [Interactive API](https://hive.hivesigner.com/) - Swagger interactive Hive API.
 - [Hive Glossary](https://developers.hive.io/glossary/#glossary-chain-basics) - Understanding the common terms used by the Hive blockchain.
 
 ## Infrastructure
 
 *The Hive blockchain infrastructure*
 
-- [Hive](https://hive.io) - Fast, scalable, powerful blockchain for Web3.0, ([code](https://gitlab.syncad.com/hive/hive)).
+- [Hive](https://hive.io/eco) - Fast, scalable, powerful blockchain for Web3.0, ([code](https://gitlab.syncad.com/hive/hive)).
 - [Hivemind](https://gitlab.syncad.com/hive/hivemind) - Developer-friendly microservice powering social networks on the Hive blockchain.
 
 ## SDKs
@@ -49,11 +50,11 @@ A curated list of awesome Hive frameworks, libraries, applications and resources
 *Tutorials for getting started with Hive*
 
 - JavaScript
-  - [Developer Portal JavaScript Tutorial](https://developers.hive.io/tutorials/#tutorials-javascript) - JavaScript Tutorials for the Developer Portal, ([code](https://gitlab.syncad.com/hive/devportal/-/tree/develop/tutorials/javascript)).
+  - [Developer Portal JavaScript Tutorial](https://developers.hive.io/tutorials/?js/#tutorials-javascript) - JavaScript Tutorials for the Developer Portal, ([code](https://gitlab.syncad.com/hive/devportal/-/tree/develop/tutorials/javascript)).
 - Python
-  - [Developer Portal Python Tutorial](https://developers.hive.io/tutorials/#tutorials-python) - Python Tutorials for the Developer Portal, ([code](https://gitlab.syncad.com/hive/devportal/-/tree/develop/tutorials/python)).
+  - [Developer Portal Python Tutorial](https://developers.hive.io/tutorials/?py/#tutorials-python) - Python Tutorials for the Developer Portal, ([code](https://gitlab.syncad.com/hive/devportal/-/tree/develop/tutorials/python)).
 - Ruby
-  - [Developer Portal Ruby Tutorial](https://developers.hive.io/tutorials/#tutorials-ruby) - Ruby Tutorials for the Developer Portal, ([code](https://gitlab.syncad.com/hive/devportal/-/tree/develop/tutorials/ruby)).
+  - [Developer Portal Ruby Tutorial](https://developers.hive.io/tutorials/?rb/#tutorials-ruby) - Ruby Tutorials for the Developer Portal, ([code](https://gitlab.syncad.com/hive/devportal/-/tree/develop/tutorials/ruby)).
 
 
 ## Tools / Utilities
@@ -82,13 +83,14 @@ A curated list of awesome Hive frameworks, libraries, applications and resources
 
 - Social Blogging
   - [Hive.blog](https://hive.blog) - The 1st blog dApp for Hive, ([code](https://gitlab.syncad.com/hive/condenser)).
+  - [Ecency](https://ecency.com/) - A powerful frontend dApp for Android, iOS, Desktop and Web, ([code](https://github.com/ecency)).
   - [Peakd](https://peakd.com) - User-friendly full-fledged blogging dApp for Hive.
-  - [Esteem](https://esteem.app/) - A powerful frontend dApp for Android, iOS, Desktop and Web, ([code](https://github.com/esteemapp)).
 - Video
   - [3Speak](https://3speak.online/) - Video sharing community that rewards creators and curators.
   - [DTube](https://d.tube/) - Decentralized video sharing community that rewards creators and curators, ([code](https://github.com/dtube)).
 - Game
   - [Splinterlands](https://splinterlands.com/) - A collectible trading card game on the Hive blockchain.
+  - [Cryptobrewmaster](https://www.cryptobrewmaster.io/) - Craft beer brewing business card game. Brew - study - upgrade - trade - earn.
 - Science
   - [STEMsocial](https://stem.openhive.network/) - A New STEM Communication Paradigm On Hive, ([code](https://github.com/BFuks/STEMsocial)).
 - Automation
@@ -114,7 +116,6 @@ Where to find more resources about Hive.
 ### Developer Community
 
 - [HiveDevs Chat](https://discord.gg/4mn5S9t) - A Discord channel where Hive developers go to discuss Hive apps, development, libraries and related topics.
-- [Hive API](https://hive.hivesigner.com) - Swagger interactive Hive API.
 
 ### Conferences
 
@@ -123,7 +124,8 @@ Where to find more resources about Hive.
 ### Projects Summary
 
 - [Hive Projects](https://hiveprojects.io/) - A collection of cool projects built with or for Hive, ([code](https://github.com/wise-team/hiveprojects.io)).
+- [Hive Dapps](https://hivedapps.com) - Decentralised App stats on Hive.
 
 ---
 
-If you have any question about this opinionated list, please contact [@good-karma](https://hive.blog/@good-karma) on Hive or open an issue on GitHub.
+If you have any question about this opinionated list, please contact [@good-karma](https://ecency.com/@good-karma) on Hive or open an issue on GitHub.

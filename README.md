@@ -1,7 +1,7 @@
 
 # Awesome Hive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[<img src="hive@185x160.png" alt="Hive Logo" align="right" height="80">](https://hive.io)
 
-A curated list of awesome Hive frameworks, libraries, applications and resources
+A curated list of awesome hive frameworks, libraries, applications and resources
 
 ## Contents
 - [Introduction](#introduction)

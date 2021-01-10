@@ -74,7 +74,6 @@ This is a curated list of awesome Hive frameworks, libraries, applications and r
   - [Hiveblog Wallet](https://wallet.hive.blog) - The wallet functionality of Hiveblog Condenser, ([code](https://gitlab.syncad.com/hive/wallet)).
 - Data Service
   - [HiveSQL](https://hivesql.io/) - A publicly available Microsoft SQL database containing all the Hive blockchain data.
-  - [eSync](https://github.com/eSteemApp/esync) - Extracts Hive blockchain data and saves into Mongodb.
 - Witness
   - [Witness List](https://hivekings.com/witnesses) - Witness List on Hivekings.
   - [Witness List](https://hive.arcange.eu/witnesses/) - Witness List by [@arcange](https://hive.blog/@arcange).

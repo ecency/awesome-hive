@@ -3,7 +3,7 @@
 
 Hive is an open source platform built for blockchain social networks, games and more applications that is fast and scalable.
 
-This is a curated list of awesome Hive frameworks, libraries, applications and resources.
+This is a curated list of awesome Hive frameworks, libraries, applications and resources. Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 ## Contents
 - [Introduction](#introduction)

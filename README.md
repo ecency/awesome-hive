@@ -1,7 +1,9 @@
 
 # Awesome Hive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[<img src="hive@185x160.png" alt="Hive Logo" align="right" height="80">](https://hive.io)
 
-A curated list of awesome Hive frameworks, libraries, applications and resources
+Hive is an open source platform built for blockchain social networks, games and more applications that is fast and scalable.
+
+This is a curated list of awesome Hive frameworks, libraries, applications and resources.
 
 ## Contents
 - [Introduction](#introduction)
@@ -79,7 +81,7 @@ A curated list of awesome Hive frameworks, libraries, applications and resources
 
 ## dApps
 
-*Some cool dApps built with Hive*
+*Some cool dApps powered by Hive*
 
 - Social Blogging
   - [Hive.blog](https://hive.blog) - The 1st blog dApp for Hive, ([code](https://gitlab.syncad.com/hive/condenser)).
@@ -112,6 +114,10 @@ Online tools and APIs to simplify development.
 ## Resources
 
 Where to find more resources about Hive.
+
+### General Community
+
+- [Hive discord](https://discord.gg/mfufwsw56Q) - General discord community to hangout and get started.
 
 ### Developer Community
 

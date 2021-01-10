@@ -15,6 +15,7 @@ This is a curated list of awesome Hive frameworks, libraries, applications and r
 - [Services](#services)
   - [Hive DAO](#hive-dao)
 - [Resources](#resources)
+  - [General Community](#general-community)
   - [Developer Community](#developer-community)
   - [Conferences](#conferences)
   - [Projects Summary](#projects-summary)

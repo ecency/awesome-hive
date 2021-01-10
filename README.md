@@ -1,7 +1,7 @@
 
 # Awesome Hive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[<img src="hive@185x160.png" alt="Hive Logo" align="right" height="80">](https://hive.io)
 
-Hive is an open source platform built for blockchain social networks, games and more applications that is fast and scalable.
+Hive is an open source platform built for blockchain social networks, games and different applications that is fast and scalable.
 
 This is a curated list of awesome Hive frameworks, libraries, applications and resources. Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
@@ -95,6 +95,8 @@ This is a curated list of awesome Hive frameworks, libraries, applications and r
   - [Cryptobrewmaster](https://www.cryptobrewmaster.io/) - Craft beer brewing business card game. Brew - study - upgrade - trade - earn.
 - Science
   - [STEMsocial](https://stem.openhive.network/) - A New STEM Communication Paradigm On Hive, ([code](https://github.com/BFuks/STEMsocial)).
+- Finance
+  - [LeoFinance](https://leofinance.io) - Financial crypto blogging platform.
 - Automation
   - [Hive.vote](https://hive.vote) - An dApp for automatic claiming payouts, automatic curation, and scheduling posts, ([code](https://github.com/mahdiyari/steemauto)).
 - Tokens

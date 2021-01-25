@@ -102,6 +102,8 @@ This is a curated list of awesome Hive frameworks, libraries, applications and r
 - Tokens
   - [Hive-engine](https://hive-engine.com/) - A platform that empowers creating tokens and tribes on Hive.
   - [NFTMart](https://nftm.art) - A platform that enables the buying and selling of NFTs on Hive.
+- Hypnosis
+  - [HypnoChain](https://hypnochain.com) - Your hub for all hypnosis related content on the Hive blockchain.
 
 ## Services
 

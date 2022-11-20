@@ -90,6 +90,7 @@ This is a curated list of awesome Hive frameworks, libraries, applications and r
 - Video
   - [3Speak](https://3speak.online/) - Video sharing community that rewards creators and curators.
   - [DTube](https://d.tube/) - Decentralized video sharing community that rewards creators and curators, ([code](https://github.com/dtube)).
+  - [Hive-Tube](https://Hive-Tube.com) - The Hive-Tube plugin monetizes your streaming media on any Peertube (P2P) Server. 
 - Game
   - [Splinterlands](https://splinterlands.com/) - A collectible trading card game on the Hive blockchain.
   - [Cryptobrewmaster](https://www.cryptobrewmaster.io/) - Craft beer brewing business card game. Brew - study - upgrade - trade - earn.

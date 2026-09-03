@@ -94,6 +94,7 @@ This is a curated list of awesome Hive frameworks, libraries, applications and r
 - Game
   - [Splinterlands](https://splinterlands.com/) - A collectible trading card game on the Hive blockchain.
   - [Cryptobrewmaster](https://www.cryptobrewmaster.io/) - Craft beer brewing business card game. Brew - study - upgrade - trade - earn.
+  - [Stellarch](https://stellarch.io) - A deterministic, provably-fair trading card game on Hive where you draft a team, own your cards on-chain, and win with skill over spend. Closed alpha coming, waitlist open.
 - Science
   - [STEMsocial](https://stem.openhive.network/) - A New STEM Communication Paradigm On Hive, ([code](https://github.com/BFuks/STEMsocial)).
 - Finance

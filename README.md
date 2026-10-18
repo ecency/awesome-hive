@@ -180,6 +180,7 @@ This is a curated list of awesome Hive frameworks, libraries, applications and r
   - [Hivedex](https://hivedex.io/) - Interface for the internal HIVE and HBD market.
   - [Distriator](https://distriator.com/) - Spend HBD at merchants and earn cashback.
   - [V4V.app](https://v4v.app/) - Bridge between Hive and Bitcoin Lightning payments.
+  - [KulaSwap Bridge](https://kula.money/bridge.html) - Moves Hive-Engine VKBT and CURE to the PRANA EVM chain as 1:1 wrapped tokens and back, signed with Hive Keychain and held in custody by the 3-of-5 multisig account [@kula-bridge](https://peakd.com/@kula-bridge).
 - NFT
   - [NFT Showroom](https://nftshowroom.com/) - Digital art marketplace on Hive.
 - Automation
